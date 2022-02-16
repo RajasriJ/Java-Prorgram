@@ -8,7 +8,7 @@ Example- 42 is said to be a pronic number
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class Problem3 {
+public class Problem003 {
     
     public static void IsPronicNumber(int Num){
         ArrayList<Integer> arr=new ArrayList<Integer>();

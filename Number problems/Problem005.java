@@ -5,7 +5,7 @@ Example:
 11 + 32 + 53 = 1 + 9 + 125 = 135*/
 
 import java.util.Scanner;
-public class Problem5 {
+public class Problem005 {
     
     public static int IsDisariumNumber(int N){
         int Sum=0;

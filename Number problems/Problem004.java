@@ -6,7 +6,7 @@ Example- 226 is said to be a magic number
 if we single digit number will now 1 them it would not a magic number.
 */
 import java.util.Scanner;
-public class Problem4 {
+public class Problem004 {
    
     public static void IsMagicNumber(int Num){
         int Sum=0;

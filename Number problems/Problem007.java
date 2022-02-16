@@ -8,7 +8,7 @@ Assume the environment does not allow you to store 64-bit integers (signed or un
 
 import java.util.Scanner;
 
-public class Problem7 {
+public class Problem007 {
  
    
     public static  int reverse(int x) {

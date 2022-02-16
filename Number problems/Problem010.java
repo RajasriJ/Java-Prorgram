@@ -3,7 +3,7 @@
 Printing prime numbers Upto N terms.
 */
 import java.util.Scanner;
-public class Problem10 {
+public class Problem010 {
     
     public static void PrintingPrimes(int range){
         for(int i=2;i<=range;i++){

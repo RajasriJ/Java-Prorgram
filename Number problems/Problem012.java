@@ -5,7 +5,7 @@ For example, 1124 is a spy number, the sum of its digits is 1+1+2+4=8 and the pr
 */
 
 import java.util.Scanner;
-public class Problem12 {
+public class Problem012 {
     
     public static void IsSpyNumber(int Num){
         String s=Integer.toString(Num);

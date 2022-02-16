@@ -10,7 +10,7 @@ Example:
 */
 
 import java.util.Scanner;
-public class Problem8 {
+public class Problem008 {
     
     public static void IsTechNumber(int Num){
         String s=Integer.toString(Num);

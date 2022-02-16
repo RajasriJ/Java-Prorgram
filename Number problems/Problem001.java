@@ -8,7 +8,7 @@ Note that 1 is typically treated as an ugly number.
 
 
 import java.util.*;
-public class Problem1 {
+public class Problem001 {
     public static boolean IsUglyNumber(int N){
         ArrayList<Integer> arr=new ArrayList<Integer>();
         boolean flag=false;

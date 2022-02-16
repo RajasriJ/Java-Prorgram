@@ -3,7 +3,7 @@
 A number is called a twisted prime number if it is a prime number and reverse of this number is also a prime number.*/
 
 import java.util.Scanner;
-public class Problem6 {
+public class Problem006 {
     
     public static boolean IsPrime(int Num){
        boolean flag=false;

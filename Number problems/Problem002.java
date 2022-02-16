@@ -7,7 +7,7 @@ and 1 + 2 + 3 = 6, so 6 is a perfect number.
 */
 
 import java.util.Scanner;
-public class Problem2 {
+public class Problem002 {
     
     public static int IsPerfectOrNot(int Num){
         int Sum=0;

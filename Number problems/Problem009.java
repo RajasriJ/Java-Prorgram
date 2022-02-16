@@ -3,7 +3,7 @@
 A number is said to be unique , if the digits in it are not repeated. for example, 12345 is a unique number. 123445 is not a unique number.
 */
 import java.util.Scanner;
-public class Problem9 {
+public class Problem009 {
     
     public static void IsUnique(int Num){
         String s=Integer.toString(Num);

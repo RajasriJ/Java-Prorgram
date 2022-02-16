@@ -5,7 +5,7 @@ either member of the twin prime pair (41, 43). In other words, a twin prime is a
 */
 
 import java.util.Scanner;
-public class Problem11 {
+public class Problem011 {
     public static boolean isPrime(int n){
         boolean flag=true;
         for(int i=2;i<n/2;i++){
